@@ -46,7 +46,7 @@ src/
 
 Esta é uma estrutura sugerida e pode ser ajustada de acordo com as necessidades específicas do seu projeto. A ideia principal é manter uma separação clara de responsabilidades entre os diferentes componentes do aplicativo, facilitando a manutenção e extensão futuras. Certifique-se de seguir as boas práticas de desenvolvimento Angular e padrões de arquitetura limpa ao desenvolver seu ERP.
 
-
+https://github.dev/bezkoder/angular-17-jwt-auth
 
 
 
